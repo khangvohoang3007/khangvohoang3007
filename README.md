@@ -81,14 +81,6 @@
 
 <h3 align="left">🔥   My Stats :</h3>
 
-###
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khangvohoang3007&show_icons=true&theme=radical" alt="Khang's GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khangvohoang3007&layout=compact&theme=radical" alt="Most Used Languages" />
-</div>
-
-###
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=khangvohoang3007&theme=radical" alt="GitHub Streak" />
