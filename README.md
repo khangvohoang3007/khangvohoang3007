@@ -85,16 +85,22 @@
 
 <h3 align="left">⚔️ Battle Records</h3>
 
+###
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=khangvohoang3007&theme=radical" alt="GitHub Streak" />
 </div>
 
 ###
+<h3 align="left">📺 Latest YouTube Video</h3>
 
-### 📺 Latest YouTube Video
 
 [![SMART HOSPITAL BED MODEL USING ESP32 COMBINED IOT BLYNK](https://ytcards.demolab.com/?id=peCON6crhVg&title=SMART+HOSPITAL+BED+MODEL+USING+ESP32+COMBINED+IOT+BLYNK&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=450&border_radius=10 "SMART HOSPITAL BED MODEL USING ESP32 COMBINED IOT BLYNK")](https://www.youtube.com/watch?v=peCON6crhVg)
 <br/>
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-SUBSCRIBE-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@khangvohoang3007?sub_confirmation=1)
+
+###
+<div align="center">
+  <img src="bear.gif" height="250" />
+</div>
