@@ -12,4 +12,4 @@ jobs:
         with:
           playlist_id: UULF2WHjPDvbE6O328n17ZGcfg
           comment_tag_name: YOUTUBE-CARDS
-          show_duration: true
+          show_duration: false
