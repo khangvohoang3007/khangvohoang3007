@@ -1,5 +1,5 @@
-<h1 align="center">"Hello! I talk to machines." 👋</h1>
-<p align="center">IoT & Embedded Engineer | Firmware Development | C/C++ & Python | Computer Vision (YOLO) | B.E. Graduate from HCMUTE</p>
+<h1 align="center">"Hello! I talk to machines.👋"</h1>
+<p align="center">IoT & Embedded Engineer | C/C++ & Python | Computer Vision (YOLO)</p>
 
 ###
 
@@ -20,19 +20,20 @@
 
 ###
 
-<h1 align="center">Hello ! Hello ! 👋</h1>
-
-###
-
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+<img src="animation.gif" height="150" align="left" style="margin-right: 20px;" />
+
+<div>
+  <h3> ☄️☄️☄️BOOM! Ren still **zzZ... while I’m running at 100% CPU! 🚀</h3>
+  <p>HELLO! こんにちは! 안녕하세요! नमस्ते! andddd Xin Chào!</p>
+  <p>I'm Khang from Vietnam. I'm working on some cool stuff to share here—feel free to click around and check them out!</p>
 </div>
 
-<p align="left">I'm Khang from Viet Nam<br><br>- 🔭 I’m working as a Final Year Student at HCMUTE, focusing on my Graduation Project about plant disease detection using UAVs and AI.<br><br>- 📚 I'm currently learning advanced Computer Vision (YOLOv11, RT-DETR) and optimizing AI models for Edge devices like Jetson Nano and Raspberry Pi.<br><br>-⚡ In my free time I enjoy automating my home with Home Assistant, playing sandbox games, and practicing the piano.</p>
+<br clear="left" />
+
 
 ###
 
