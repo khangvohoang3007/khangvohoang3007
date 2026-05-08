@@ -10,6 +10,6 @@ jobs:
     steps:
       - uses: DenverCoder1/github-readme-youtube-cards@main
         with:
-          playlist_id: UULF2WHjPDvbE6O328n17ZGcfg
+          playlist_id: UCEY98zVls33dVkLik5hYN2g
           comment_tag_name: YOUTUBE-CARDS
           show_duration: false
