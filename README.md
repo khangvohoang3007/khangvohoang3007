@@ -1,6 +1,5 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+<h1 align="center">"Hello! I talk to machines." 👋</h1>
+<p align="center">IoT & Embedded Engineer | Firmware Development | C/C++ & Python | Computer Vision (YOLO) | B.E. Graduate from HCMUTE</p>
 
 ###
 
@@ -28,6 +27,10 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
+
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
 <p align="left">I'm Khang from Viet Nam<br><br>- 🔭 I’m working as a Final Year Student at HCMUTE, focusing on my Graduation Project about plant disease detection using UAVs and AI.<br><br>- 📚 I'm currently learning advanced Computer Vision (YOLOv11, RT-DETR) and optimizing AI models for Edge devices like Jetson Nano and Raspberry Pi.<br><br>-⚡ In my free time I enjoy automating my home with Home Assistant, playing sandbox games, and practicing the piano.</p>
 
