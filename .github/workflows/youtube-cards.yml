@@ -14,4 +14,4 @@ jobs:
           comment_tag_name: "YOUTUBE"
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCEY98zVls33dVkLik5hYN2g"
           max_post_count: 5
-          template: "$newline [![ $title ](https://ytcards.demolab.com/?id=$videoId&title=$title&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=450&border_radius=10)](https://www.youtube.com/watch?v=$videoId)"
+          template: "[![|title|](https://ytcards.demolab.com/?id=|id|&title=|title|&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=350&border_radius=10)](https://www.youtube.com/watch?v=|id|)"
