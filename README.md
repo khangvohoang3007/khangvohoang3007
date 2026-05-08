@@ -94,8 +94,7 @@
 ###
 <h3 align="left">📺 Latest YouTube Video</h3>
 
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
+<!-- YOUTUBE:START -->[![|title|](https://ytcards.demolab.com/?id=|id|&title=|title|&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=350&border_radius=10)](https://www.youtube.com/watch?v=|id|)[![|title|](https://ytcards.demolab.com/?id=|id|&title=|title|&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=350&border_radius=10)](https://www.youtube.com/watch?v=|id|)<!-- YOUTUBE:END -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-SUBSCRIBE-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@khangvohoang3007?sub_confirmation=1)
 
