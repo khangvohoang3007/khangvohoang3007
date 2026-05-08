@@ -1,0 +1,16 @@
+name: GitHub Readme YouTube Cards
+on:
+  schedule:
+    # Tự động chạy mỗi 24 giờ
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "YOUTUBE"
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCP_gL_6tH3AIsV_mK6K_VTw"
