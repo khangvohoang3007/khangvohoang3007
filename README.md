@@ -28,8 +28,8 @@
 
 <div>
   <h3> ☄️☄️☄️BOOM! Ren still **zzZ... while I’m running at 100% CPU! 🚀</h3>
-  <p>HELLO! こんにちは! 안녕하세요! नमस्ते! andddd Xin Chào! 🖐️</p>
-  <p>I'm Khang from Vietnam. I'm trying on some cool stuff to share here</p>
+  <p>. HELLO! こんにちは! 안녕하세요! नमस्ते! andddd Xin Chào! 🖐️</p>
+  <p>. I'm Khang from Vietnam. I'm trying on some cool stuff to share here</p>
   <p>—feel free to click around and check them out! 🐻🐻🐻</p>
 </div>
 
