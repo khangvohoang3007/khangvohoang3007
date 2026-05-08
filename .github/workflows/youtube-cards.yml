@@ -1,18 +1,15 @@
 name: GitHub Readme YouTube Cards
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: '0 * * * *'
   workflow_dispatch:
 
 jobs:
-  build:
+  deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - uses: DenverCoder1/github-readme-youtube-cards@main
         with:
-          comment_tag_name: "YOUTUBE"
-          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCEY98zVls33dVkLik5hYN2g"
-          max_post_count: 5
-          template: "[![($title)](https://ytcards.demolab.com/?id=$videoId&title=$title&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=350&border_radius=10)](https://www.youtube.com/watch?v=$videoId)"
-          custom_tags: "true"
+          playlist_id: UULF2WHjPDvbE6O328n17ZGcfg
+          comment_tag_name: YOUTUBE-CARDS
+          show_duration: true
