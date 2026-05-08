@@ -94,7 +94,9 @@
 ###
 <h3 align="left">📺 Latest YouTube Video</h3>
 
-<br/>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khangvohoang3007&theme=radical" alt="GitHub Streak" />
+</div>
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-SUBSCRIBE-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@khangvohoang3007?sub_confirmation=1)
 
