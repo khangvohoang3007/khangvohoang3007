@@ -95,8 +95,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![THE AIR QUALITY MONITORING SYSTEM USING ESP8266 AND BLYNK SERVER MONITORING](https://ytcards.demolab.com/?id=SAjFOtDFIkM&title=THE+AIR+QUALITY+MONITORING+SYSTEM+USING+ESP8266+AND+BLYNK+SERVER+MONITORING&lang=en&timestamp=1778266005&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "THE AIR QUALITY MONITORING SYSTEM USING ESP8266 AND BLYNK SERVER MONITORING")](https://www.youtube.com/watch?v=SAjFOtDFIkM)
-[![SMART HOSPITAL BED MODEL USING ESP32 COMBINED IOT BLYNK](https://ytcards.demolab.com/?id=peCON6crhVg&title=SMART+HOSPITAL+BED+MODEL+USING+ESP32+COMBINED+IOT+BLYNK&lang=en&timestamp=1778249939&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "SMART HOSPITAL BED MODEL USING ESP32 COMBINED IOT BLYNK")](https://www.youtube.com/watch?v=peCON6crhVg)
+
 <!-- END YOUTUBE-CARDS -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-SUBSCRIBE-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@khangvohoang3007?sub_confirmation=1)
